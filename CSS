@@ -84,7 +84,7 @@ ul li a:hover{
     color:#000000;
     
 }
-.btn{
+.btn1{
     width: 100px;
     height: 28px;
     background: #fff;
@@ -100,7 +100,7 @@ ul li a:hover{
 
 }
 
-.btn:focus{
+.btn1:focus{
     outline: none;
 }
 
@@ -193,7 +193,7 @@ ul li a:hover{
       
 }
 
-.btnn {
+.btn2 {
     width: 80px;
     height: 30px;
     background: #fff;
@@ -204,7 +204,7 @@ ul li a:hover{
     cursor: pointer;
 
 }
-.btnn a{
+.btn2 a{
     text-decoration: none;
     color: black;
 }
